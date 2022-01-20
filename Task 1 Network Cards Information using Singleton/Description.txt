@@ -1,0 +1,5 @@
+Use the following files to implement the singleton pattern to create an instance that can get the your device network card details (manufacture, MAC-Address and  card type) 
+
+
+
+C# provides methods to get the required info already
