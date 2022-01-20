@@ -1,0 +1,8 @@
+Use command pattern to make a string builder
+When user clicks:
+1: add “hello,”
+2: add “welcome”
+3: prints the current string
+E: exits the program
+R: redo
+U: undo
